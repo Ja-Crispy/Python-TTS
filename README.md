@@ -8,7 +8,9 @@ Therefore, pyttsx3 was used as an alternative. It proved to be much easier to us
 # Libraries required
 Run the following commandss in terminal to install the required librariess
 
-```pip install pyttssx3
+```
+pip install pyttssx3
 pip install tkinter
 pip install gTTS
 pip install playsound
+```
